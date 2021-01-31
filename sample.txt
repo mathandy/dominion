@@ -1,0 +1,329 @@
+
+Game #65823183, unrated.
+
+Lord V starts with 7 Coppers.
+Lord V starts with 3 Estates.
+R starts with 7 Coppers.
+R starts with 3 Estates.
+m starts with 7 Coppers.
+m starts with 3 Estates.
+Lord R starts with 7 Coppers.
+Lord R starts with 3 Estates.
+Lord V shuffles their deck.
+Lord V draws 5 cards.
+R shuffles their deck.
+R draws 5 cards.
+m shuffles their deck.
+m draws 4 Coppers and an Estate.
+Lord R shuffles their deck.
+Lord R draws 5 cards.
+
+Turn 1 - Lord Voldebot
+Lord V plays 3 Coppers. (+$3)
+Lord V buys and gains a Silver.
+Lord V draws 5 cards.
+
+Turn 1 - Revenge Witch
+R plays 5 Coppers. (+$5)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 1 - mtician
+m plays 4 Coppers. (+$4)
+m buys and gains a Bounty Hunter.
+m draws 3 Coppers and 2 Estates.
+
+Turn 1 - Lord Rattington
+Lord R plays 2 Coppers. (+$2)
+Lord R draws 5 cards.
+
+Turn 2 - Lord Voldebot
+Lord V plays 4 Coppers. (+$4)
+Lord V buys and gains a Silver.
+Lord V shuffles their deck.
+Lord V draws 5 cards.
+
+Turn 2 - Revenge Witch
+R plays 2 Coppers. (+$2)
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 2 - mtician
+m plays 3 Coppers. (+$3)
+m buys and gains a Silver.
+m shuffles their deck.
+m draws 3 Coppers, a Silver and a Bounty Hunter.
+
+Turn 2 - Lord Rattington
+Lord R plays 5 Coppers. (+$5)
+Lord R buys and gains a Silver.
+Lord R shuffles their deck.
+Lord R draws 5 cards.
+
+Turn 3 - Lord Voldebot
+Lord V plays 2 Coppers and a Silver. (+$4)
+Lord V buys and gains a Silver.
+Lord V draws 5 cards.
+
+Turn 3 - Revenge Witch
+R plays 3 Coppers. (+$3)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 3 - mtician
+m plays a Bounty Hunter.
+m gets +1 Action.
+m exiles a Copper.
+m gets +$3.
+m plays 2 Coppers and a Silver. (+$4)
+m buys and gains a Gold.
+m draws 3 Coppers and 2 Estates.
+
+Turn 3 - Lord Rattington
+Lord R plays 4 Coppers. (+$4)
+Lord R buys and gains a Silver.
+Lord R draws 5 cards.
+
+Turn 4 - Lord Voldebot
+Lord V plays 4 Coppers. (+$4)
+Lord V buys and gains a Silver.
+Lord V shuffles their deck.
+Lord V draws 5 cards.
+
+Turn 4 - Revenge Witch
+R plays 3 Coppers and a Silver. (+$5)
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 4 - mtician
+m plays 3 Coppers. (+$3)
+m buys and gains a Silver.
+m shuffles their deck.
+m draws 2 Coppers, a Silver, an Estate and a Bounty Hunter.
+
+Turn 4 - Lord Rattington
+Lord R plays 2 Coppers and a Silver. (+$4)
+Lord R buys and gains a Silver.
+Lord R shuffles their deck.
+Lord R draws 5 cards.
+
+Turn 5 - Lord Voldebot
+Lord V plays 4 Coppers and a Silver. (+$6)
+Lord V buys and gains a Gold.
+Lord V draws 5 cards.
+
+Turn 5 - Revenge Witch
+R plays 3 Coppers and a Silver. (+$5)
+R buys and gains a Silver.
+R draws 5 cards.
+
+Turn 5 - mtician
+m plays a Bounty Hunter.
+m gets +1 Action.
+m exiles an Estate.
+m gets +$3.
+m plays 2 Coppers and a Silver. (+$4)
+m buys and gains a Gold.
+m draws 3 Coppers, a Gold and an Estate.
+
+Turn 5 - Lord Rattington
+Lord R plays 3 Coppers and a Silver. (+$5)
+Lord R buys and gains a Silver.
+Lord R draws 5 cards.
+
+Turn 6 - Lord Voldebot
+Lord V plays 2 Coppers and 2 Silvers. (+$6)
+Lord V buys and gains a Gold.
+Lord V shuffles their deck.
+Lord V draws 5 cards.
+
+Turn 6 - Revenge Witch
+R plays 3 Coppers and a Silver. (+$5)
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 6 - mtician
+m plays 3 Coppers and a Gold. (+$6)
+m buys and gains a Gold.
+m shuffles their deck.
+m draws a Copper, a Silver, 2 Golds and an Estate.
+
+Turn 6 - Lord Rattington
+Lord R plays 2 Coppers and 2 Silvers. (+$6)
+Lord R buys and gains a Gold.
+Lord R shuffles their deck.
+Lord R draws 5 cards.
+
+Turn 7 - Lord Voldebot
+Lord V plays a Copper and a Silver. (+$3)
+Lord V buys and gains a Silver.
+Lord V draws 5 cards.
+
+Turn 7 - Revenge Witch
+R plays 2 Coppers and 2 Silvers. (+$6)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 7 - mtician
+m plays a Copper, a Silver and 2 Golds. (+$9)
+m buys and gains a Province.
+m draws 4 Coppers and a Gold.
+
+Turn 7 - Lord Rattington
+Lord R plays 3 Coppers and a Gold. (+$6)
+Lord R buys and gains a Gold.
+Lord R draws 5 cards.
+
+Turn 8 - Lord Voldebot
+Lord V plays 2 Coppers and 3 Silvers. (+$8)
+Lord V buys and gains a Province.
+Lord V draws 5 cards.
+
+Turn 8 - Revenge Witch
+R plays a Copper and 3 Silvers. (+$7)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 8 - mtician
+m plays 4 Coppers and a Gold. (+$7)
+m buys and gains a Gold.
+m shuffles their deck.
+m draws a Copper, a Silver, a Gold, an Estate and a Bounty Hunter.
+
+Turn 8 - Lord Rattington
+Lord R plays 4 Coppers and a Silver. (+$6)
+Lord R buys and gains a Gold.
+Lord R draws 5 cards.
+
+Turn 9 - Lord Voldebot
+Lord V plays 4 Coppers and a Gold. (+$7)
+Lord V buys and gains a Gold.
+Lord V shuffles their deck.
+Lord V draws 5 cards.
+
+Turn 9 - Revenge Witch
+R plays 4 Coppers. (+$4)
+R buys and gains a Silver.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 9 - mtician
+m plays a Bounty Hunter.
+m gets +1 Action.
+m exiles an Estate.
+m plays a Copper, a Silver and a Gold. (+$6)
+m buys and gains a Gold.
+m draws 3 Coppers, an Estate and a Province.
+
+Turn 9 - Lord Rattington
+Lord R plays 3 Silvers. (+$6)
+Lord R buys and gains a Gold.
+Lord R shuffles their deck.
+Lord R draws 5 cards.
+
+Turn 10 - Lord Voldebot
+Lord V plays a Copper and 2 Golds. (+$7)
+Lord V buys and gains a Gold.
+Lord V draws 5 cards.
+
+Turn 10 - Revenge Witch
+R plays 2 Coppers and 2 Silvers. (+$6)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 10 - mtician
+m plays 3 Coppers. (+$3)
+m buys Ride.
+m gains a Horse.
+m draws 2 Coppers and 3 Golds.
+
+Turn 10 - Lord Rattington
+Lord R plays 2 Coppers and a Silver. (+$4)
+Lord R buys and gains a Silver.
+Lord R draws 5 cards.
+
+Turn 11 - Lord Voldebot
+Lord V plays a Copper, 3 Silvers and a Gold. (+$10)
+Lord V buys and gains a Province.
+Lord V draws 5 cards.
+
+Turn 11 - Revenge Witch
+R plays a Copper, a Silver and a Gold. (+$6)
+R buys and gains a Gold.
+R draws 5 cards.
+
+Turn 11 - mtician
+m plays 2 Coppers and 3 Golds. (+$11)
+m buys and gains a Province.
+m shuffles their deck.
+m draws a Copper, 2 Silvers, a Province and a Bounty Hunter.
+
+Turn 11 - Lord Rattington
+Lord R plays 2 Coppers, a Silver and 2 Golds. (+$10)
+Lord R buys and gains a Province.
+Lord R draws 5 cards.
+
+Turn 12 - Lord Voldebot
+Lord V plays 3 Coppers and a Silver. (+$5)
+Lord V buys and gains a Silver.
+Lord V shuffles their deck.
+Lord V draws 5 cards.
+
+Turn 12 - Revenge Witch
+R plays 3 Coppers and 2 Silvers. (+$7)
+R buys and gains a Gold.
+R shuffles their deck.
+R draws 5 cards.
+
+Turn 12 - mtician
+m plays a Bounty Hunter.
+m gets +1 Action.
+m exiles a Province.
+m gets +$3.
+m plays a Copper and 2 Silvers. (+$5)
+m buys and gains a Province.
+m draws a Copper, 2 Golds, a Province and a Horse.
+
+Turn 12 - Lord Rattington
+Lord R plays a Copper, 2 Silvers and a Gold. (+$8)
+Lord R buys and gains a Province.
+Lord R shuffles their deck.
+Lord R draws 5 cards.
+
+Turn 13 - Lord Voldebot
+Lord V plays 2 Coppers and a Silver. (+$4)
+Lord V buys and gains a Silver.
+Lord V draws 5 cards.
+
+Turn 13 - Revenge Witch
+R plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+R buys and gains a Province.
+R draws 5 cards.
+
+Turn 13 - mtician
+m plays a Horse.
+m draws 2 Golds.
+m gets +1 Action.
+m returns a Horse to the Horse pile.
+m plays a Copper and 4 Golds. (+$13)
+m buys and gains a Province.
+m draws 4 Coppers and an Estate.
+
+Turn 13 - Lord Rattington
+Lord R plays 3 Coppers, a Silver and a Gold. (+$8)
+Lord R buys and gains a Province.
+Lord R draws 5 cards.
+
+Turn 14 - Lord Voldebot
+Lord V plays 3 Coppers and 2 Golds. (+$9)
+Lord V buys and gains a Province.
+Lord V draws 5 cards.
+
+Turn 14 - Revenge Witch
+R plays a Copper and a Gold. (+$4)
+R buys and gains an Estate.
+R draws 5 cards.
+
+Turn 14 - mtician
