@@ -1,5 +1,11 @@
+"""Parses Dominion (dominion.games) log to get decks.
+
+To use: create text file in your Downloads folder called "log.txt"
+and copy/paste the log into that file.  Then run this script with python
+"""
 from collections import deque
 import re
+from pathlib import Path
 
 
 def parse_description_of_cards(cards_text):
@@ -38,19 +44,27 @@ class Player:
         self.exile = []
         self.trash = []
         self.discarded = []
+        self.ordered_gains = []
 
     def show(self):
         print(self.name)
-        print('\tDeck:')
-        for card in set(self.deck):
+
+        print('\n\tDeck:')
+        for card in sorted(list(set(self.deck))):
             print(f'\t\t{card}: {self.deck.count(card)}')
-        print('\tExile:')
-        for card in set(self.exile):
+
+        print('\n\tExile:')
+        for card in sorted(list(set(self.exile))):
             print(f'\t\t{card}: {self.exile.count(card)}')
+
+        print('\n\tTime-Ordered Gains:')
+        for card in self.ordered_gains:
+            print(f'\t\t{card}')
 
     def gain(self, description_of_cards):
         for card in parse_description_of_cards(description_of_cards):
             self.deck.append(card)
+            self.ordered_gains.append(card)
 
     def exile_from_supply(self, description_of_cards):
         for card in parse_description_of_cards(description_of_cards):
@@ -95,7 +109,8 @@ class Game:
 
 
 if __name__ == '__main__':
-    with open('sample.txt') as f:
+    log_path = Path().home() / 'Downloads' / 'log.txt'
+    with log_path.open() as f:
         test_text = f.read()
 
     game = Game(log=test_text)
