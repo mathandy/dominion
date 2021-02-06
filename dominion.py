@@ -28,10 +28,14 @@ def parse_description_of_cards(cards_text):
         # get count if there's a number at the beginning
         try:
             n = int(card.split(' ')[0])
+            card = card[card.index(' ') + 1:].strip()
         except:
             n = 1
 
         cards += [card] * n
+
+    # deal with plurals (in an overly simple way that probably won't work well)
+    cards = [card[:-1] if card.endswith('s') else card for card in cards]
     return cards
 
 
@@ -40,9 +44,8 @@ class Player:
         self.name = name
         self.deck = ['Copper'] * 7 + ['Estate'] * 3
         self.hand = []
-        self.discard_pile = []
-        self.exile = []
-        self.trash = []
+        self.exiled = []
+        self.trashed = []
         self.discarded = []
         self.ordered_gains = []
 
@@ -54,26 +57,31 @@ class Player:
             print(f'\t\t{card}: {self.deck.count(card)}')
 
         print('\n\tExile:')
-        for card in sorted(list(set(self.exile))):
-            print(f'\t\t{card}: {self.exile.count(card)}')
+        for card in sorted(list(set(self.exiled))):
+            print(f'\t\t{card}: {self.exiled.count(card)}')
 
-        print('\n\tTime-Ordered Gains:')
-        for card in self.ordered_gains:
-            print(f'\t\t{card}')
+        # print('\n\tTime-Ordered Gains:')
+        # for card in self.ordered_gains:
+        #     print(f'\t\t{card}')
 
     def gain(self, description_of_cards):
         for card in parse_description_of_cards(description_of_cards):
             self.deck.append(card)
             self.ordered_gains.append(card)
 
+    def trash(self, description_of_cards):
+        for card in parse_description_of_cards(description_of_cards):
+            self.deck.remove(card)
+            self.trashed.append(card)
+
     def exile_from_supply(self, description_of_cards):
         for card in parse_description_of_cards(description_of_cards):
-            self.exile.append(card)
+            self.exiled.append(card)
 
     def exile_from_deck(self, description_of_cards):
         for card in parse_description_of_cards(description_of_cards):
             self.deck.remove(card)
-            self.exile.append(card)
+            self.exiled.append(card)
 
 
 class Game:
@@ -82,14 +90,15 @@ class Game:
         self.log_lines = self.log.split('\n')
         # get players
         token = " starts with "
-        players = set(Player(line.split(token)[0]) for line in self.log_lines
-                      if token in line)
+        players = set(Player(line.split(token)[0])
+                      for line in self.log_lines if token in line)
         self.player_dict = dict((p.name, p) for p in players)
 
         # get cards
         buy_token = ' buys and gains'
         gain_token = ' gains'
         exile_token = ' exiles'
+        trash_token = ' trashes'
         for line in self.log.split('\n'):
             if buy_token in line:
                 player, description_of_cards = line.split(buy_token)
@@ -102,6 +111,10 @@ class Game:
             elif exile_token in line:
                 player, description_of_cards = line.split(exile_token)
                 self.player_dict[player.strip()].exile_from_deck(description_of_cards)
+
+            elif trash_token in line:
+                player, description_of_cards = line.split(trash_token)
+                self.player_dict[player.strip()].trash(description_of_cards)
 
     def show(self):
         for player in self.player_dict.values():
