@@ -1,0 +1,748 @@
+
+Game #66454606, unrated.
+
+Kingdom generated with these relative percentages:
+0%: Possession
+
+c starts with 7 Coppers.
+c starts with 3 Estates.
+m starts with 7 Coppers.
+m starts with 3 Estates.
+M starts with 7 Coppers.
+M starts with 3 Estates.
+c shuffles their deck.
+c draws 5 cards.
+m shuffles their deck.
+m draws 3 Coppers and 2 Estates.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 1 - ccguypoopiebutthole
+c plays 4 Coppers. (+$4)
+c buys and gains a Quarry.
+c draws 5 cards.
+
+Turn 1 - mtician
+m plays 3 Coppers. (+$3)
+m buys and gains a Silver.
+m draws 4 Coppers and an Estate.
+
+Turn 1 - Math Guy Jimbo
+M plays 3 Coppers. (+$3)
+M buys and gains a Silver.
+M draws 5 cards.
+
+Turn 2 - ccguypoopiebutthole
+c plays 3 Coppers. (+$3)
+c buys and gains a Silver.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 2 - mtician
+m plays 4 Coppers. (+$4)
+m buys and gains a Quarry.
+m shuffles their deck.
+m draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 2 - Math Guy Jimbo
+M plays 4 Coppers. (+$4)
+M buys and gains a Quarry.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 3 - ccguypoopiebutthole
+c plays 4 Coppers. (+$4)
+c buys and gains a Monument.
+c draws 5 cards.
+
+Turn 3 - mtician
+m plays 2 Coppers and a Silver. (+$4)
+m buys and gains a Talisman.
+m draws 4 Coppers and an Estate.
+
+Turn 3 - Math Guy Jimbo
+M plays 2 Coppers, a Quarry and a Silver. (+$5)
+M buys and gains a Forge.
+M draws 5 cards.
+
+Turn 4 - ccguypoopiebutthole
+c plays 2 Coppers and a Quarry. (+$3)
+c buys and gains a Mountebank.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 4 - mtician
+m plays 4 Coppers. (+$4)
+m buys and gains a Quarry.
+m shuffles their deck.
+m draws 2 Coppers, a Silver, an Estate and a Quarry.
+
+Turn 4 - Math Guy Jimbo
+M plays 4 Coppers. (+$4)
+M buys and gains a Quarry.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 5 - ccguypoopiebutthole
+c plays 2 Coppers, a Quarry and a Silver. (+$5)
+c buys and gains a Forge.
+c draws 5 cards.
+
+Turn 5 - mtician
+m plays 2 Coppers, a Quarry and a Silver. (+$5)
+m buys and gains a Forge.
+m draws 3 Coppers, an Estate and a Talisman.
+
+Turn 5 - Math Guy Jimbo
+M plays 2 Coppers and a Silver. (+$4)
+M buys and gains a Quarry.
+M draws 5 cards.
+
+Turn 6 - ccguypoopiebutthole
+c plays a Mountebank.
+c gets +$2.
+m gains a Curse.
+m gains a Copper.
+M gains a Curse.
+M gains a Copper.
+c plays 2 Coppers. (+$2)
+c buys and gains a Quarry.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 6 - mtician
+m plays 3 Coppers and a Talisman. (+$4)
+m buys a Trade Route.
+m gains a Trade Route.
+m gains a Trade Route.
+m shuffles their deck.
+m draws 3 Coppers, an Estate and a Quarry.
+
+Turn 6 - Math Guy Jimbo
+M plays a Forge.
+M trashes a Copper and an Estate.
+M gains an Estate.
+M plays 2 Quarries. (+$2)
+M buys and gains a Grand Market.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 7 - ccguypoopiebutthole
+c plays a Mountebank.
+c gets +$2.
+m gains a Curse.
+m gains a Copper.
+M gains a Curse.
+M gains a Copper.
+c plays 3 Coppers. (+$3)
+c buys and gains a Quarry.
+c draws 5 cards.
+
+Turn 7 - mtician
+m plays 3 Coppers and a Quarry. (+$4)
+m buys and gains a Mountebank.
+m draws 4 Coppers and an Estate.
+
+Turn 7 - Math Guy Jimbo
+M plays 4 Coppers and a Quarry. (+$5)
+M buys and gains a Forge.
+M draws 5 cards.
+
+Turn 8 - ccguypoopiebutthole
+c plays 2 Coppers and a Quarry. (+$3)
+c buys and gains a Vault.
+c draws 5 cards.
+
+Turn 8 - mtician
+m plays 4 Coppers. (+$4)
+m buys and gains a Silver.
+m draws a Silver, a Quarry, a Talisman and 2 Trade Routes.
+
+Turn 8 - Math Guy Jimbo
+M plays a Forge.
+M trashes a Silver and an Estate.
+M gains a Mountebank.
+M plays 2 Quarries. (+$2)
+M buys and gains a Grand Market.
+M draws 5 cards.
+
+Turn 9 - ccguypoopiebutthole
+c plays a Forge.
+c trashes 2 Coppers, a Silver and a Monument.
+c gains a Forge.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 9 - mtician
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Trade Route.
+m gets +$1.
+m plays a Quarry, a Talisman and a Silver. (+$4)
+m buys a Grand Market.
+m gains a Grand Market.
+m gains a Grand Market.
+m shuffles their deck.
+m draws a Curse, 2 Coppers, an Estate and a Forge.
+
+Turn 9 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays 2 Coppers. (+$2)
+M buys and gains a Quarry.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 10 - ccguypoopiebutthole
+c plays a Forge.
+c trashes 2 Coppers and an Estate.
+c gains an Estate.
+c plays a Quarry. (+$1)
+c buys and gains a Trade Route.
+c draws 5 cards.
+
+Turn 10 - mtician
+m plays a Forge.
+m trashes a Curse, 2 Coppers and an Estate.
+m gains an Estate.
+m draws a Copper, a Silver, an Estate, a Grand Market and a Talisman.
+
+Turn 10 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Forge.
+M trashes 3 Coppers.
+M gains a Copper.
+M plays a Quarry. (+$1)
+M buys and gains a Grand Market.
+M buys and gains a Trade Route.
+M draws 5 cards.
+
+Turn 11 - ccguypoopiebutthole
+c plays a Forge.
+c trashes 2 Estates.
+c gains a Quarry.
+c plays a Copper and a Quarry. (+$2)
+c buys and gains a Monument.
+c draws 5 cards.
+
+Turn 11 - mtician
+m plays a Grand Market.
+m draws a Curse.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Copper, a Talisman and a Silver. (+$4)
+m buys a Silver.
+m gains a Silver.
+m gains a Silver.
+m buys a Silver.
+m gains a Silver.
+m gains a Silver.
+m draws 3 Coppers and 2 Quarries.
+
+Turn 11 - Math Guy Jimbo
+M plays a Mountebank.
+M gets +$2.
+c gains a Curse.
+c gains a Copper.
+m gains a Curse.
+m gains a Copper.
+M plays 2 Coppers. (+$2)
+M buys and gains a Silver.
+M draws 5 cards.
+
+Turn 12 - ccguypoopiebutthole
+c plays a Mountebank.
+c gets +$2.
+m gains a Curse.
+m gains a Copper.
+M discards a Curse.
+c plays 2 Coppers and a Quarry. (+$3)
+c buys and gains a Silver.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 12 - mtician
+m plays 2 Quarries. (+$2)
+m buys and gains a Grand Market.
+m draws 2 Coppers, a Silver, a Grand Market and a Trade Route.
+
+Turn 12 - Math Guy Jimbo
+M plays 2 Quarries. (+$2)
+M buys and gains a Grand Market.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 13 - ccguypoopiebutthole
+c plays a Mountebank.
+c gets +$2.
+m gains a Curse.
+m gains a Copper.
+M gains a Curse.
+M gains a Copper.
+c plays a Copper and a Quarry. (+$2)
+c buys and gains a Vault.
+c draws 5 cards.
+
+Turn 13 - mtician
+m plays a Grand Market.
+m draws a Copper.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Trade Route.
+m gets +1 Buy.
+m trashes a Copper.
+m gets +$1.
+m plays 2 Coppers and a Silver. (+$4)
+m buys and gains a Gold.
+m shuffles their deck.
+m draws 2 Coppers, an Estate, a Grand Market and a Mountebank.
+
+Turn 13 - Math Guy Jimbo
+M plays a Forge.
+M trashes 3 Coppers and a Quarry.
+M gains a Monument.
+M draws 5 cards.
+
+Turn 14 - ccguypoopiebutthole
+c plays a Monument.
+c gets +$2.
+c gets 1 VP.
+c plays 2 Coppers. (+$2)
+c buys and gains a Silver.
+c draws 5 cards.
+
+Turn 14 - mtician
+m plays a Grand Market.
+m draws a Trade Route.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Mountebank.
+m gets +$2.
+M discards a Curse.
+c gains a Curse.
+c gains a Copper.
+m plays 2 Coppers. (+$2)
+m buys and gains a Gold.
+m draws 2 Coppers, a Silver, a Grand Market and a Quarry.
+
+Turn 14 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Trade Route.
+M gets +1 Buy.
+M trashes a Curse.
+M gets +$1.
+M plays a Silver. (+$2)
+M buys and gains a Duchy.
+M draws 5 cards.
+
+Turn 15 - ccguypoopiebutthole
+c plays 3 Quarries and a Silver. (+$5)
+c buys and gains a Grand Market.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 15 - mtician
+m plays a Grand Market.
+m draws a Copper.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Quarry and a Silver. (+$3)
+m buys and gains a Grand Market.
+m draws 2 Curses, a Copper, a Silver and a Gold.
+
+Turn 15 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Mountebank.
+M gets +$2.
+c discards a Curse.
+m discards a Curse.
+M plays 2 Quarries. (+$2)
+M buys and gains a Grand Market.
+M buys and gains 2 Forges.
+M draws 5 cards.
+
+Turn 16 - ccguypoopiebutthole
+c plays a Mountebank.
+c gets +$2.
+m discards a Curse.
+M gains a Curse.
+M gains a Copper.
+c plays 2 Coppers and a Silver. (+$4)
+c buys and gains a Duchy.
+c draws 5 cards.
+
+Turn 16 - mtician
+m plays a Copper, a Silver and a Gold. (+$6)
+m buys and gains a Gold.
+m draws a Copper, a Silver, an Estate, a Grand Market and a Talisman.
+
+Turn 16 - Math Guy Jimbo
+M plays a Grand Market.
+M shuffles their deck.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays 2 Coppers and a Quarry. (+$3)
+M buys and gains a Forge.
+M draws 5 cards.
+
+Turn 17 - ccguypoopiebutthole
+c plays a Forge.
+c trashes a Grand Market and a Vault.
+c gains a Colony.
+c plays a Copper and a Quarry. (+$2)
+c buys and gains a Monument.
+c draws 5 cards.
+
+Turn 17 - mtician
+m plays a Grand Market.
+m draws a Quarry.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Quarry, a Talisman and a Silver. (+$4)
+m buys a Rabble.
+m gains a Rabble.
+m gains a Rabble.
+m buys a Silver.
+m gains a Silver.
+m gains a Silver.
+m draws a Curse, a Copper and 3 Silvers.
+
+Turn 17 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Copper and a Silver. (+$3)
+M buys and gains a Gold.
+M draws 5 cards.
+
+Turn 18 - ccguypoopiebutthole
+c plays a Copper, 2 Quarries and a Silver. (+$5)
+c buys and gains a Duchy.
+c draws 5 cards.
+
+Turn 18 - mtician
+m plays a Copper and 3 Silvers. (+$7)
+m buys and gains a Gold.
+m shuffles their deck.
+m draws a Curse, a Copper, a Silver, an Estate and a Forge.
+
+Turn 18 - Math Guy Jimbo
+M plays a Forge.
+M trashes a Copper, a Forge and a Quarry.
+M gains a Colony.
+M plays a Quarry. (+$1)
+M draws 5 cards.
+
+Turn 19 - ccguypoopiebutthole
+c plays a Monument.
+c gets +$2.
+c gets 1 VP.
+c plays a Copper and a Quarry. (+$2)
+c buys and gains a Mountebank.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 19 - mtician
+m plays a Forge.
+m trashes a Curse, a Copper and an Estate.
+m gains an Estate.
+m plays a Silver. (+$2)
+m draws a Curse, 2 Coppers, a Silver and a Grand Market.
+
+Turn 19 - Math Guy Jimbo
+M plays a Forge.
+M trashes a Copper, a Mountebank and a Trade Route.
+M gains a Province.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 20 - ccguypoopiebutthole
+c plays a Mountebank.
+c gets +$2.
+m discards a Curse.
+M gains a Curse.
+M gains a Copper.
+c draws 5 cards.
+
+Turn 20 - mtician
+m plays a Grand Market.
+m draws a Mountebank.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Mountebank.
+m gets +$2.
+M gains a Curse.
+M gains a Copper.
+c gains a Curse.
+c gains a Copper.
+m plays 2 Coppers and a Silver. (+$4)
+m buys and gains a Province.
+m draws a Copper, 2 Golds, a Grand Market and a Rabble.
+
+Turn 20 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Monument.
+M gets +$2.
+M gets 1 VP.
+M plays a Quarry. (+$1)
+M buys and gains a Province.
+M buys and gains a Trade Route.
+M draws 5 cards.
+
+Turn 21 - ccguypoopiebutthole
+c plays a Monument.
+c gets +$2.
+c gets 1 VP.
+c plays 2 Quarries and a Silver. (+$4)
+c buys and gains a Duchy.
+c draws 5 cards.
+
+Turn 21 - mtician
+m plays a Grand Market.
+m draws a Trade Route.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Rabble.
+m draws a Copper, a Silver and an Estate.
+M reveals a Quarry, a Forge and a Curse.
+M discards a Forge and a Quarry.
+M topdecks a Curse.
+c reveals a Copper, a Monument and a Vault.
+c discards a Copper, a Monument and a Vault.
+m plays 2 Coppers, a Silver and 2 Golds. (+$10)
+m buys and gains a Colony.
+m draws a Curse, a Copper, a Silver, a Gold and a Quarry.
+
+Turn 21 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Forge.
+M trashes 3 Curses and a Colony.
+M gains a Colony.
+M buys and gains an Estate.
+M draws 5 cards.
+
+Turn 22 - ccguypoopiebutthole
+c plays 2 Coppers and a Silver. (+$4)
+c buys and gains an Estate.
+c draws 5 cards.
+
+Turn 22 - mtician
+m plays a Copper, a Quarry, a Silver and a Gold. (+$7)
+m buys and gains a Duchy.
+m draws a Copper, 2 Silvers, a Grand Market and a Talisman.
+
+Turn 22 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays 2 Coppers, a Silver and a Gold. (+$7)
+M buys and gains a Province.
+M shuffles their deck.
+M draws 5 cards.
+
+Turn 23 - ccguypoopiebutthole
+c plays a Forge.
+c trashes a Curse, a Copper, a Mountebank and a Quarry.
+c gains a Platinum.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 23 - mtician
+m plays a Grand Market.
+m draws a Quarry.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Copper, a Quarry, a Talisman and 2 Silvers. (+$7)
+m buys and gains a Platinum.
+m draws a Curse, a Copper, a Silver, an Estate and a Grand Market.
+
+Turn 23 - Math Guy Jimbo
+M plays a Forge.
+M trashes a Copper, a Forge and a Quarry.
+M gains a Colony.
+M draws 5 cards.
+
+Turn 24 - ccguypoopiebutthole
+c plays a Mountebank.
+c gets +$2.
+m discards a Curse.
+M gains a Curse.
+M gains a Copper.
+c plays 2 Coppers, a Quarry and a Silver. (+$5)
+c buys and gains a Duchy.
+c draws 5 cards.
+
+Turn 24 - mtician
+m plays a Grand Market.
+m draws a Gold.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Copper, a Silver and a Gold. (+$6)
+m buys and gains a Province.
+m shuffles their deck.
+m draws 3 Coppers, a Silver and a Rabble.
+
+Turn 24 - Math Guy Jimbo
+M plays a Forge.
+M trashes 3 Coppers and an Estate.
+M gains an Estate.
+M buys and gains a Curse.
+M draws 5 cards.
+
+Turn 25 - ccguypoopiebutthole
+c plays a Monument.
+c gets +$2.
+c gets 1 VP.
+c plays 2 Coppers. (+$2)
+c buys and gains an Estate.
+c draws 5 cards.
+
+Turn 25 - mtician
+m plays a Rabble.
+m draws 2 Curses and an Estate.
+M reveals a Monument, a Grand Market and a Curse.
+M discards a Grand Market and a Monument.
+M topdecks a Curse.
+c reveals a Forge, a Duchy and a Vault.
+c discards a Forge and a Vault.
+c topdecks a Duchy.
+m plays 3 Coppers and a Silver. (+$5)
+m buys and gains a Vault.
+m draws 3 Silvers, a Forge and a Quarry.
+
+Turn 25 - Math Guy Jimbo
+M plays a Copper, a Quarry and a Gold. (+$5)
+M buys and gains a Forge.
+M draws 5 cards.
+
+Turn 26 - ccguypoopiebutthole
+c plays a Trade Route.
+c gets +1 Buy.
+c trashes a Curse.
+c gets +$4.
+c plays a Platinum and a Silver. (+$7)
+c buys and gains a Colony.
+c draws 5 cards.
+
+Turn 26 - mtician
+m plays a Quarry and 3 Silvers. (+$7)
+m buys and gains a Duchy.
+m draws a Copper, a Silver, a Gold, a Grand Market and a Talisman.
+
+Turn 26 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Forge.
+M trashes a Curse, a Silver and a Province.
+M gains a Colony.
+M buys and gains 2 Estates.
+M draws 5 cards.
+
+Turn 27 - ccguypoopiebutthole
+c plays a Forge.
+c trashes a Curse and a Duchy.
+c gains a Duchy.
+c plays a Quarry. (+$1)
+c buys and gains a Trade Route.
+c shuffles their deck.
+c draws 5 cards.
+
+Turn 27 - mtician
+m plays a Grand Market.
+m draws a Curse.
+m gets +1 Action.
+m gets +1 Buy.
+m gets +$2.
+m plays a Copper, a Talisman, a Silver and a Gold. (+$7)
+m buys and gains a Province.
+m draws a Copper, a Silver, a Gold, a Grand Market and a Rabble.
+
+Turn 27 - Math Guy Jimbo
+M plays a Grand Market.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Grand Market.
+M shuffles their deck.
+M draws a card.
+M gets +1 Action.
+M gets +1 Buy.
+M gets +$2.
+M plays a Trade Route.
+M gets +1 Buy.
+M trashes an Estate.
+M gets +$4.
+M buys and gains 2 Estates.
+M draws 5 cards.

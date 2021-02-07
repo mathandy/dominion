@@ -1,7 +1,10 @@
 """Parses Dominion (dominion.games) log to get decks.
 
-To use: create text file in your Downloads folder called "log.txt"
-and copy/paste the log into that file.  Then run this script with python
+usage:
+    Save your log into a text file and, `python dominion.py <log_path>`
+
+    For help, `python dominion.py --help`
+
 """
 from collections import deque
 import re
