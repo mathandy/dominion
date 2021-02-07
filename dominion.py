@@ -8,6 +8,11 @@ import re
 from pathlib import Path
 
 
+LOG_PATH = Path().home() / 'Downloads' / 'log.txt'
+SHOW_TRASH = False
+SHOW_ORDERED_GANS = False
+
+
 def parse_description_of_cards(cards_text):
     """Parses a text description of cards into a list of cards.
     E.g.
@@ -49,7 +54,7 @@ class Player:
         self.discarded = []
         self.ordered_gains = []
 
-    def show(self):
+    def show(self, show_trash=SHOW_TRASH, show_ordered_gains=SHOW_ORDERED_GANS):
         print(self.name)
 
         print('\n\tDeck:')
@@ -60,9 +65,14 @@ class Player:
         for card in sorted(list(set(self.exiled))):
             print(f'\t\t{card}: {self.exiled.count(card)}')
 
-        # print('\n\tTime-Ordered Gains:')
-        # for card in self.ordered_gains:
-        #     print(f'\t\t{card}')
+        if show_trash:
+            for card in sorted(list(set(self.trashed))):
+                print(f'\t\t{card}: {self.trashed.count(card)}')
+
+        if show_ordered_gains:
+            print('\n\tTime-Ordered Gains:')
+            for card in self.ordered_gains:
+                print(f'\t\t{card}')
 
     def gain(self, description_of_cards):
         for card in parse_description_of_cards(description_of_cards):
@@ -122,11 +132,9 @@ class Game:
 
 
 if __name__ == '__main__':
-    log_path = Path().home() / 'Downloads' / 'log.txt'
+    log_path = LOG_PATH
     with log_path.open() as f:
         test_text = f.read()
 
     game = Game(log=test_text)
     game.show()
-
-
