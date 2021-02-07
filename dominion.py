@@ -20,7 +20,7 @@ def parse_description_of_cards(cards_text):
     ['Copper', 'Copper', 'Gold', 'Estate']
     """
     card_removeables = ('.', ' a ', ' an ')
-    card_descriptions = re.split(',|and', cards_text)
+    card_descriptions = re.split(r',|\ and', cards_text)
 
     cards = []
     for card in card_descriptions:
