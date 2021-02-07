@@ -40,8 +40,18 @@ def parse_description_of_cards(cards_text):
         cards += [card] * n
 
     # deal with plurals (in an overly simple way that probably won't work well)
-    cards = [card[:-1] if card.endswith('s') else card for card in cards]
+    cards = [make_singular(card) for card in cards]
     return cards
+
+
+def make_singular(card):
+    """make a card name singular
+    E.g. 'Coppers' -> 'Copper', or "Colonies" -> "Colony"
+    """
+    if card.endswith('ies'):
+        return card[:-3] + 'y'
+    elif card.endswith('s'):
+        return card[:-1]
 
 
 class Player:
