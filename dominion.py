@@ -6,12 +6,13 @@ usage:
     For help, `python dominion.py --help`
 
 """
-from collections import deque
+# from collections import deque
 import re
 from pathlib import Path
+import os
 
 
-LOG_PATH = Path().home() / 'Downloads' / 'log.txt'
+LOG_PATH = Path(os.path.dirname(os.path.realpath(__file__))) / 'sample_log.txt'
 SHOW_TRASH = False
 SHOW_ORDERED_GANS = False
 
