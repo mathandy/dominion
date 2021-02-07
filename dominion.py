@@ -52,6 +52,7 @@ def make_singular(card):
         return card[:-3] + 'y'
     elif card.endswith('s'):
         return card[:-1]
+    return card
 
 
 class Player:
@@ -86,6 +87,7 @@ class Player:
 
     def gain(self, description_of_cards):
         for card in parse_description_of_cards(description_of_cards):
+            assert card
             self.deck.append(card)
             self.ordered_gains.append(card)
 
