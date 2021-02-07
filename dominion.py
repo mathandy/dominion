@@ -65,7 +65,7 @@ class Player:
         self.discarded = []
         self.ordered_gains = []
 
-    def show(self, show_trash=SHOW_TRASH, show_ordered_gains=SHOW_ORDERED_GANS):
+    def show(self):
         print(self.name)
 
         print('\n\tDeck:')
@@ -76,11 +76,12 @@ class Player:
         for card in sorted(list(set(self.exiled))):
             print(f'\t\t{card}: {self.exiled.count(card)}')
 
-        if show_trash:
+        if SHOW_TRASH:
+            print('\n\tTrash:')
             for card in sorted(list(set(self.trashed))):
                 print(f'\t\t{card}: {self.trashed.count(card)}')
 
-        if show_ordered_gains:
+        if SHOW_ORDERED_GANS:
             print('\n\tTime-Ordered Gains:')
             for card in self.ordered_gains:
                 print(f'\t\t{card}')
@@ -144,8 +145,25 @@ class Game:
 
 
 if __name__ == '__main__':
-    log_path = LOG_PATH
-    with log_path.open() as f:
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        description='Dominion (dominion.games) log parser.'
+    )
+    parser.add_argument('log_path', type=Path, nargs='?',
+                        default=LOG_PATH,
+                        help='Path to log file.')
+    parser.add_argument('--show_trash', '-t', action='store_true',
+                        help="Show players' trash piles.")
+    parser.add_argument('--show_ordered_gains', '-o', action='store_true',
+                        help="Show an ordered list of each players' gains")
+    args = parser.parse_args()
+
+    LOG_PATH = args.log_path
+    SHOW_TRASH = args.show_trash
+    SHOW_ORDERED_GANS = args.show_ordered_gains
+
+    with LOG_PATH.open() as f:
         test_text = f.read()
 
     game = Game(log=test_text)
